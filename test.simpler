@@ -1,0 +1,11 @@
+opts ^
+const Apple ^ 100
+const banana ^ 150
+
+const str ^ ''
+
+print(10)
+print(Apple)
+print(banana)
+print(str)
+print('Hello world.')
